@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540236018 source:c:\users\dagma\onedrive\documents\c\substring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
